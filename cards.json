@@ -1,14 +1,37 @@
 [
   {
-    "question": "What is the formula for kinetic energy?",
-    "answer": "KE = 1/2 * m * v^2"
+    "question": "Which gas is evolved when Zn reacts with dilute HCl?",
+    "answer": "Hydrogen gas (H₂) is evolved.",
+    "tags": ["Inorganic", "Reactions"]
   },
   {
-    "question": "What is the capital of France?",
-    "answer": "Paris"
+    "question": "Brown ring test confirms presence of?",
+    "answer": "Nitrate ion (NO₃⁻)",
+    "tags": ["Inorganic", "Qualitative Analysis"]
   },
   {
-    "question": "Define Ohm's Law.",
-    "answer": "V = I × R"
+    "question": "Oxidation state of Cr in K₂Cr₂O₇?",
+    "answer": "+6",
+    "tags": ["Inorganic", "Oxidation States"]
+  },
+  {
+    "question": "Kinetic energy formula?",
+    "answer": "KE = ½ m v²",
+    "tags": ["Physics", "Mechanics"]
+  },
+  {
+    "question": "SI unit of electric field?",
+    "answer": "Volt per meter (V/m)",
+    "tags": ["Physics", "Electrostatics"]
+  },
+  {
+    "question": "Derivative of sin(x)?",
+    "answer": "cos(x)",
+    "tags": ["Maths", "Calculus"]
+  },
+  {
+    "question": "Determinant of a 2×2 matrix [[a, b], [c, d]]?",
+    "answer": "ad - bc",
+    "tags": ["Maths", "Linear Algebra"]
   }
 ]

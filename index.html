@@ -9,16 +9,17 @@
 <body>
   <div class="container">
     <h1>Flashcard MVP</h1>
-    <div id="flashcard" class="card">
-      <div id="question">Loading...</div>
-      <div id="answer" class="hidden">Answer here</div>
+    <div id="tags" class="tag-container"></div>
+    <div id="flashcard" class="card" onclick="toggleAnswer()">
+        <div id="question">Question here</div>
+        <div id="answer" class="answer">Answer goes here</div>
     </div>
-    <button onclick="toggleAnswer()">Show Answer</button>
-    <div class="buttons">
-      <button onclick="rate('easy')">Easy</button>
-      <button onclick="rate('medium')">Medium</button>
-      <button onclick="rate('forgot')">Forgot</button>
+    <div class="rating-container">
+        <button onclick="rate('easy')" class="rating-button easy">Easy</button>
+        <button onclick="rate('medium')" class="rating-button medium">Medium</button>
+        <button onclick="rate('forgot')" class="rating-button forgot">Forgot</button>
     </div>
+
   </div>
   <script src="script.js"></script>
 </body>
