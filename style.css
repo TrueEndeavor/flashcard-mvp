@@ -15,10 +15,20 @@ body {
   box-shadow: 0 0 10px #ccc;
 }
 
+.card {
+  padding: 16px;
+  min-height: 160px;
+  background-color: #e0f2fe;
+  border-radius: 10px;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
 
 .card:hover {
   background-color: #bae6fd;
 }
+
 #answer {
   min-height: 48px; /* Reserve space for answer */
   opacity: 0;
@@ -31,17 +41,6 @@ body {
   opacity: 1;
   visibility: visible;
 }
-
-.card {
-  padding: 16px;
-  min-height: 160px;
-  background-color: #e0f2fe;
-  border-radius: 10px;
-  text-align: center;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
 
 .hidden {
   display: none;
