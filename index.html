@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Flashcard MVP</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Flashcard MVP</h1>
+    <div id="flashcard" class="card">
+      <div id="question">Loading...</div>
+      <div id="answer" class="hidden">Answer here</div>
+    </div>
+    <button onclick="toggleAnswer()">Show Answer</button>
+    <div class="buttons">
+      <button onclick="rate('easy')">Easy</button>
+      <button onclick="rate('medium')">Medium</button>
+      <button onclick="rate('forgot')">Forgot</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
