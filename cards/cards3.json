@@ -1,0 +1,310 @@
+[
+  {
+    "question": "<img src=\"Screenshot_20200416-220316.png\">",
+    "answer": "<img src=\"Screenshot_20200416-220412.png\">"
+  },
+  {
+    "question": "Chord of Ellipse with given two eccentric angles",
+    "answer": "<img src=\"IMG_20200424_195649.jpg\">"
+  },
+  {
+    "question": "Radius of curvature of a graph in terms of differential coefficients",
+    "answer": "\\[\\frac{[1+(y')^2]^{\\frac 32}}{y''}\\]"
+  },
+  {
+    "question": "Intersection coordinates of two normal of parabola",
+    "answer": "\\((2a + a(t_1^2+t_2^2+t_1t_2) , -at_1t_2(t_1+t_2))\\)"
+  },
+  {
+    "question": "Focus, Tangent, and Normal",
+    "answer": "<img src=\"Screenshot_20200428-170128.png\">"
+  },
+  {
+    "question": "Tangent at vertex, Tangent, and focus",
+    "answer": "<img src=\"Screenshot_20200428-171107.png\">FJ is perpendicular bisector"
+  },
+  {
+    "question": "\\[ ( \\vec{a} \\times \\vec{b} )\\cdot ( \\vec{c} \\times \\vec{d} ) \\]",
+    "answer": "\\[<br><br>\\begin{vmatrix}<br>\\vec{a}\\cdot\\vec{c}&&\\vec{a}\\cdot\\vec{d}\\\\<br>\\vec{b}\\cdot\\vec{c}&&\\vec{b}\\cdot\\vec{d}<br>\\end{vmatrix}<br>\\]<br>"
+  },
+  {
+    "question": "\\[ \\cos2A + \\cos 2B + \\cos 2C \\]",
+    "answer": "\\[ -1 - 4\\cos A\\cos B\\cos C \\]"
+  },
+  {
+    "question": "\\[ \\sin 2A + \\sin 2B + \\sin 2C \\]",
+    "answer": "\\[ 4\\sin A \\sin B \\sin C \\]"
+  },
+  {
+    "question": "If ellipse and hyperbola intersect orthogonally, they are",
+    "answer": "confocal"
+  },
+  {
+    "question": "Product of perpendiculars on asymptote<img src=\"IMG_20200429_183702.jpg\">",
+    "answer": "\\[\\frac{a^2b^2}{a^2+b^2}\\]"
+  },
+  {
+    "question": "<img src=\"IMG_20200429_184814.jpg\">",
+    "answer": "\\( ab\\)"
+  },
+  {
+    "question": "Product of perpendiculars from foci on a tangent of Ellipse or Hyperbola",
+    "answer": "\\( b^2 \\)"
+  },
+  {
+    "question": "Perpendicular from focus to tangent (for any conic) lies on",
+    "answer": "Auxiliary circle<img src=\"IMG_20200429_191858.jpg\">"
+  },
+  {
+    "question": "Area of triangle OPR, where PQ and RS are conjugate diameters.<img src=\"Screenshot_20200501-000447.png\">",
+    "answer": "\\( \\frac{ab}{2} \\)"
+  },
+  {
+    "question": "What is locus of orthocentre of a triangle which lies on rectangular hyperbola?",
+    "answer": "It lies on the rectangular hyperbola itself.<img src=\"Screenshot_20200501-231248.png\">"
+  },
+  {
+    "question": "Distance between point of tangency, directrix and tangent intersection, and vertex",
+    "answer": "<img src=\"Screenshot_20200501-231900.png\">"
+  },
+  {
+    "question": "The locus of midpoints of parallel chords in a parabola",
+    "answer": "It is a line parallel to axis of symmetry<img src=\"Screenshot_20200501-233108.png\">"
+  },
+  {
+    "question": "Area of triangle formed by points \\( t_1,t_2,t_3\\) of parabola",
+    "answer": "\\( a^2|(t_1-t_2)(t_2-t_3)(t_3-t_1)| \\)"
+  },
+  {
+    "question": "Area of triangle formed by tangents at points \\( t_1, t_2, t_3\\) of parabola",
+    "answer": "\\( \\frac 12 a^2|(t_1-t_2)(t_2-t_3)(t_3-t_1)| \\)<br><br>This is 1/2 times area of triangle formed by the points itself"
+  },
+  {
+    "question": "Sum of eccentric angles of 4 conormal points of an ellipse",
+    "answer": "π or 3π or 5π"
+  },
+  {
+    "question": "If a circle intersects an ellipse at 4 points, find sum of eccentric angles of those 4 points",
+    "answer": "0 or 2π or 4π"
+  },
+  {
+    "question": "Equation of normal of Hyperbola in terms of m",
+    "answer": "\\[y=mx \\pm \\frac{m(a^2+b^2)}{\\sqrt{a^2-b^2m^2}}\\]"
+  },
+  {
+    "question": "Equation of normal of ellipse in terms of m",
+    "answer": "\\[y=mx \\pm \\frac{m(a^2-b^2)}{\\sqrt{a^2+b^2m^2}}\\]"
+  },
+  {
+    "question": "Ratio of area inside parabola to that outside it for chord of any slope",
+    "answer": "2/3 times of total area is enclosed in parabola<img src=\"Screenshot_20200501-234433.png\">"
+  },
+  {
+    "question": "Which point lies on circumcircle of triangle formed by tangents of parabola",
+    "answer": "Focus lies on that circumcircle"
+  },
+  {
+    "question": "Line joining point of intersection of tangents and midpoint of chord",
+    "answer": "The line joining these two is parallel to axis<img src=\"IMG_20200502_000010.jpg\">"
+  },
+  {
+    "question": "line joining point of intersection of tangents and focus of parabola",
+    "answer": "Bisects the angle between focal chords<img src=\"IMG_20200502_000508.jpg\">"
+  },
+  {
+    "question": "Harmonic mean of focal chords in any conic",
+    "answer": "semi-latus rectum"
+  },
+  {
+    "question": "minimum value of \\(\\frac {a^2 }{\\cos^2\\theta } + \\frac {b^2 }{\\sin^2\\theta }\\)",
+    "answer": "\\( (a+b)^2\\)"
+  },
+  {
+    "question": "<br>\\[\\begin{vmatrix}1 & a & a^2\\\\1 & b & b^2\\\\1 & c & c^2\\end{vmatrix}\\]",
+    "answer": "\\( (a-b)(b-c)(c-a) \\)"
+  },
+  {
+    "question": "\\[\\begin{vmatrix}1 & a & a^3\\\\1 & b & b^3\\\\1 & c & c^3\\end{vmatrix}\\]",
+    "answer": "\\( (a-b)(b-c)(c-a)(a+b+c) \\)"
+  },
+  {
+    "question": "\\[\\begin{vmatrix}1 & a^2 & a^3\\\\1 & b^2 & b^3\\\\1 & c^2 & c^3\\end{vmatrix}\\]",
+    "answer": "\\( (a-b)(b-c)(c-a)(ab+bc+ca)\\)"
+  },
+  {
+    "question": "Distance between circumcentre and incentre",
+    "answer": "\\[ \\sqrt{R^2-2Rr} \\]<br>or<br>\\[ R\\sqrt{1-8\\sin\\frac A2\\sin\\frac B2\\sin\\frac C2} \\]"
+  },
+  {
+    "question": "Distance between orthocentre and circumcentre",
+    "answer": "\\[\\sqrt{9R^2-a^2-b^2-c^2}\\]<br>or<br>\\[R\\sqrt{1-8\\cos A\\cos B \\cos C}\\]"
+  },
+  {
+    "question": "Distance between incentre and orthocentre",
+    "answer": "<div>\\[IH = \\sqrt{2r^2-4R^2\\cos A \\cos B \\cos C}\\]</div>"
+  },
+  {
+    "question": "\\[\\cos x\\cos (60°+x)\\cos(60°-x)\\]",
+    "answer": "\\[\\frac{\\cos(3x)}{4}\\]"
+  },
+  {
+    "question": "\\[\\sin x\\sin (60°+x)\\sin(60°-x)\\]",
+    "answer": "\\[\\frac{\\sin(3x)}{4}\\]"
+  },
+  {
+    "question": "Write m-n cot theorem with diagram",
+    "answer": "<img src=\"Screenshot_20200523-163529.png\">"
+  },
+  {
+    "question": "Greatest term in binomial expansion of (1+x)ⁿ (rₜₕ term, Find r)",
+    "answer": "\\[\\left(\\frac{n+1}{1+\\frac{First}{Second}}\\right)< r <\\left(\\frac{n+1}{1+\\frac{First}{Second}}\\right) + 1\\]<br>\\[r=\\left[ \\frac{n+1}{1+\\frac{First}{Second}}\\right] + 1\\]"
+  },
+  {
+    "question": "What does trace of idempotent matrix imply?",
+    "answer": "It gives the rank of matrix.<br>All idempotent matrix are singular except Identity.<br>A²=A"
+  },
+  {
+    "question": "Involutary, orthogonal and Nilpotent matrix",
+    "answer": "Involutary - A²=I<br>Orthogonal - AAᵀ= I<br>Nilpotent - A²=O<br>"
+  },
+  {
+    "question": "The equation of pair of bisectors of equation ax² + 2hxy + by²",
+    "answer": "\\[\\frac{x^2-y^2}{xy}=\\frac{a-b}{h}\\]"
+  },
+  {
+    "question": "The angle between lines ax² + 2hxy + by² + 2gx + 2fy + c = 0",
+    "answer": "<br>\\(tan \\theta = |\\frac{2\\sqrt{h^2-ab}}{a+b}|\\)"
+  },
+  {
+    "question": "Intersection of tangents from A and B parametric angles of ellipse",
+    "answer": "<br>\\(x = a\\frac{\\cos \\frac{A+B}{2}}{\\cos \\frac{A-B}{2}}\\)<br><br><br>\\(y = b\\frac{\\sin \\frac{A+B}{2}}{\\cos \\frac{A-B}{2}}\\)"
+  },
+  {
+    "question": "If an equation is homogenous in x,y then find dy/dx and d²y/dx²",
+    "answer": "<br>\\(\\frac{dy}{dx}=\\frac{y}{x}\\)<br>\\(\\frac{d^2y}{dx^2}=0\\)"
+  },
+  {
+    "question": "The determinant of the equation ax² + 2hxy + by² + 2gx + 2fy + c = 0",
+    "answer": "\\(\\Delta = abc + 2fgh - af^2 - bg^2 - ch^2\\)<br><img src=\"Screenshot_20200628-163916.png\">"
+  },
+  {
+    "question": "Gamma Function definition",
+    "answer": "\\[ \\Gamma(z)= \\int\\limits_0^\\infty x^{z-1}e^{-x}dx \\]"
+  },
+  {
+    "question": "Euler reflection formula (of Gamma function)",
+    "answer": "\\[ \\Gamma(s)\\Gamma(1-s)=\\frac{\\pi}{\\sin(\\pi s)} \\]"
+  },
+  {
+    "question": "Beta function definition",
+    "answer": "\\[\\mathbf{B}(x,y)= \\int\\limits_0^1t^{x-1}(1-t)^{y-1} dt\\]"
+  },
+  {
+    "question": "Value of&nbsp;\\(\\mathbf{B}(x,y)\\) in terms of&nbsp;\\(\\Gamma(x)\\: \\text{and} \\:\\Gamma(y)\\)",
+    "answer": "\\[\\mathbf{B}(x,y)=\\frac{\\Gamma(x) \\Gamma(y)}{\\Gamma(x+y)}\\]"
+  },
+  {
+    "question": "\\[\\Gamma(\\frac 12)\\]<br>",
+    "answer": "\\[ \\sqrt{\\pi} \\]<br>"
+  },
+  {
+    "question": "\\[\\int \\limits_0^{\\frac \\pi 2} \\sin^mx \\cos^n x dx\\]<br>",
+    "answer": "\\[\\frac{\\Gamma\\left(\\frac{m+1}{2}\\right)\\Gamma\\left(\\frac{n+1}{2}\\right)}{\\Gamma\\left(\\frac{m+n+2}{2}\\right )}\\]"
+  },
+  {
+    "question": "\\[\\int e^{ax}\\sin(bx)dx\\]<br>",
+    "answer": "\\[\\frac{e^{ax}}{a^2+b^2}[a\\sin(bx)-b\\cos(bx)] + C\\]<br>"
+  },
+  {
+    "question": "\\[\\int e^{ax}\\cos(bx)dx\\]",
+    "answer": "\\[\\frac{e^{ax}}{a^2+b^2}[a\\cos(bx)+b\\sin(bx)]+ C\\]"
+  },
+  {
+    "question": "\\[\\int cosec(x) dx\\]<br>",
+    "answer": "\\[-\\ln|cosec x+ \\cot x| + C = \\ln|cosec x - \\cot x| + C = \\ln\\mid\\tan\\frac{x}{2}\\mid + C\\]"
+  },
+  {
+    "question": "\\[\\int \\sec x dx\\]<br>",
+    "answer": "\\[ \\int \\ln|\\sec x + \\tan x| +C \\]"
+  },
+  {
+    "question": "\\[ \\int \\cot x dx \\]",
+    "answer": "\\[ \\ln |\\sin x| + C\\]<br>"
+  },
+  {
+    "question": "\\[ \\int \\tan x dx\\]<br>",
+    "answer": "\\[\\ln |\\sec x| + C\\]<br>"
+  },
+  {
+    "question": "\\[\\int \\limits_0^\\infty\\frac{\\sin x}{x} dx\\]<br>",
+    "answer": "\\[\\frac{\\pi}{2}\\]<br>"
+  },
+  {
+    "question": "\\[\\sin(A+B+C+D+\\cdots)\\]<br>",
+    "answer": "\\[(\\cos A \\cos B \\cos C \\cdots )( S_1 - S_3 +S_5 \\cdots)\\]<br>"
+  },
+  {
+    "question": "\\[\\cos(A+B+C+D+\\cdots)\\]<br>",
+    "answer": "\\[(\\cos A \\cos B \\cos C \\cdots )(1 - S_2 + S_4 + \\cdots)\\]"
+  },
+  {
+    "question": "\\[\\tan 3x\\]",
+    "answer": "\\[\\frac{3\\tan x - \\tan^3 x}{1 - 3\\tan^2 x}=\\tan x \\tan (\\frac \\pi 3 -x) \\tan(\\frac \\pi 3 +x) \\]<br>"
+  },
+  {
+    "question": "\\[\\sin a + \\sin (a+d) + \\sin(a+2d) +\\sin(a+3d) \\cdots + \\sin (a+nd)\\]<br>",
+    "answer": "\\[ \\frac{\\sin \\frac{(n+1)d}{2} \\cdot \\sin(a + \\frac{nd}{2})}{\\sin \\frac{d}{2}}\\]<br>"
+  },
+  {
+    "question": "\\[\\cos a + \\cos (a+d) + \\cos(a+2d) +\\cos(a+3d) \\cdots + \\cos (a+nd)\\]",
+    "answer": "\\[ \\frac{\\sin \\frac{(n+1)d}{2} \\cdot \\cos(a + \\frac{nd}{2})}{\\sin \\frac{d}{2}}\\]"
+  },
+  {
+    "question": "\\[\\sin A +\\sin B +\\sin C\\]<br>",
+    "answer": "\\[4\\cos \\frac A2 \\cos \\frac B2 \\cos \\frac C2\\]<br>"
+  },
+  {
+    "question": "\\[\\cos A +\\cos B +\\cos C\\]",
+    "answer": "\\[1+ 4\\sin \\frac A2 \\sin \\frac B2 \\sin \\frac C2\\]"
+  },
+  {
+    "question": "Dirichlet kernel",
+    "answer": "\\[ 1 + 2\\cos x + 2\\cos 2x \\cdots+ 2\\cos nx = \\frac{\\sin (n+\\frac 12)x}{\\sin \\frac x2}\\]<br>"
+  },
+  {
+    "question": "\\[ \\sin\\left (\\frac \\pi 5\\right )\\]<br>",
+    "answer": "\\[ \\frac{\\sqrt{10-2\\sqrt{5}}}{4}\\]<br>"
+  },
+  {
+    "question": "Orthocentre of triangle formed by tangents at \\(t_1, t_2, t_3\\) of parabola \\(y^2=4ax\\)",
+    "answer": "\\[(-a, a(t_1+t_2+t_3+t_1t_2t_3))\\]"
+  },
+  {
+    "question": "Taylor series expansion of:<br>\\[(1+x)^{1/x}\\]",
+    "answer": "\\[e\\left(1-\\frac x 2 +\\frac{11x^2}{24}\\dots \\right )\\]"
+  },
+  {
+    "question": "\\[<br>\\int \\frac{d x}{|x| \\sqrt{x^{2}-1}}<br>\\]",
+    "answer": "\\[\\sec x\\]"
+  },
+  {
+    "question": "Substitution?<br>\\[<br>\\int(px+q) f\\left(a x^{2}+b x+c\\right) d x<br>\\]",
+    "answer": "\\[<br>px+q=A \\frac{d\\left(a x^{2}+b x+c\\right)}{d x} + B<br>\\]"
+  },
+  {
+    "question": "Integral of the form \\(\\int \\frac{d x}{P \\sqrt{Q}}\\) where:<br>P and Q are both linear",
+    "answer": "Let \\(Q=t^{2}\\)"
+  },
+  {
+    "question": "Integral of the form \\(\\int \\frac{d x}{P \\sqrt{Q}}\\) where:<br>P and Q are both pure quadratic",
+    "answer": "Let \\(x^{2}=\\frac{1}{t}\\)"
+  },
+  {
+    "question": "Substitutions:<br>Integral of the form \\(\\int \\frac{d x}{P \\sqrt{Q}}\\) where:<br>P is linear and Q is quadratic",
+    "answer": "Let \\(P=\\frac{1}{t}\\)"
+  },
+  {
+    "question": "Integral of the form \\(\\int \\frac{d x}{P \\sqrt{Q}}\\) where:<br>P is quadratic and Q is linear",
+    "answer": "Let \\(Q=t^{2}\\)"
+  }
+]
