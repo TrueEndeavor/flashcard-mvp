@@ -2,7 +2,7 @@ let cards = [];
 let currentIndex = 0;
 let showingAnswer = false;
 
-fetch("cards.json")
+fetch("public/cards.json")
   .then(res => res.json())
   .then(data => {
     cards = data;
